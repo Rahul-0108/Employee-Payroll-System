@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Rahul-Jaiswal-dev/Employee-Payroll-System/static/css/main.df29853c.chunk.css",
+    "main.js": "/Rahul-Jaiswal-dev/Employee-Payroll-System/static/js/main.408323bd.chunk.js",
+    "main.js.map": "/Rahul-Jaiswal-dev/Employee-Payroll-System/static/js/main.408323bd.chunk.js.map",
+    "runtime-main.js": "/Rahul-Jaiswal-dev/Employee-Payroll-System/static/js/runtime-main.2bf799e5.js",
+    "runtime-main.js.map": "/Rahul-Jaiswal-dev/Employee-Payroll-System/static/js/runtime-main.2bf799e5.js.map",
+    "static/js/2.37cc74cb.chunk.js": "/Rahul-Jaiswal-dev/Employee-Payroll-System/static/js/2.37cc74cb.chunk.js",
+    "static/js/2.37cc74cb.chunk.js.map": "/Rahul-Jaiswal-dev/Employee-Payroll-System/static/js/2.37cc74cb.chunk.js.map",
+    "static/js/3.68feb373.chunk.js": "/Rahul-Jaiswal-dev/Employee-Payroll-System/static/js/3.68feb373.chunk.js",
+    "static/js/3.68feb373.chunk.js.map": "/Rahul-Jaiswal-dev/Employee-Payroll-System/static/js/3.68feb373.chunk.js.map",
+    "index.html": "/Rahul-Jaiswal-dev/Employee-Payroll-System/index.html",
+    "static/css/main.df29853c.chunk.css.map": "/Rahul-Jaiswal-dev/Employee-Payroll-System/static/css/main.df29853c.chunk.css.map",
+    "static/js/2.37cc74cb.chunk.js.LICENSE.txt": "/Rahul-Jaiswal-dev/Employee-Payroll-System/static/js/2.37cc74cb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2bf799e5.js",
+    "static/js/2.37cc74cb.chunk.js",
+    "static/css/main.df29853c.chunk.css",
+    "static/js/main.408323bd.chunk.js"
+  ]
+}
