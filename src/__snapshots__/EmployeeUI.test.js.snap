@@ -1,0 +1,261 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EmployeeUI Component Test renders the component and does user interactions 1`] = `
+<div
+  style={
+    Object {
+      "textAlign": "center",
+    }
+  }
+>
+  <h1
+    style={
+      Object {
+        "backgroundColor": "black",
+        "color": "white",
+        "padding": "8px",
+      }
+    }
+  >
+    Employee Money System
+  </h1>
+  <table
+    className="table-bordered"
+    style={
+      Object {
+        "marginLeft": "auto",
+        "marginRight": "auto",
+        "marginTop": "8%",
+        "width": "50%",
+      }
+    }
+  >
+    <thead>
+      <tr>
+        <th>
+          EmployeeId
+        </th>
+        <th>
+          Account Total Money
+        </th>
+        <th>
+          Transaction Amount
+        </th>
+        <th>
+          Add
+        </th>
+        <th>
+          Remove
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          Employee1
+        </td>
+        <td>
+          1000
+        </td>
+        <td>
+          <input
+            className="form-control"
+            id="id1"
+            onChange={[Function]}
+            type="text"
+            value={0}
+          />
+        </td>
+        <td>
+          <button
+            onClick={[Function]}
+            style={
+              Object {
+                "borderWidth": "0px",
+              }
+            }
+          >
+            Add
+          </button>
+        </td>
+        <td>
+          <button
+            onClick={[Function]}
+            style={
+              Object {
+                "borderWidth": "0px",
+              }
+            }
+          >
+            Remove
+          </button>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Employee2
+        </td>
+        <td>
+          1000
+        </td>
+        <td>
+          <input
+            className="form-control"
+            id="id2"
+            onChange={[Function]}
+            type="text"
+            value={0}
+          />
+        </td>
+        <td>
+          <button
+            onClick={[Function]}
+            style={
+              Object {
+                "borderWidth": "0px",
+              }
+            }
+          >
+            Add
+          </button>
+        </td>
+        <td>
+          <button
+            onClick={[Function]}
+            style={
+              Object {
+                "borderWidth": "0px",
+              }
+            }
+          >
+            Remove
+          </button>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Employee3
+        </td>
+        <td>
+          1000
+        </td>
+        <td>
+          <input
+            className="form-control"
+            id="id3"
+            onChange={[Function]}
+            type="text"
+            value={0}
+          />
+        </td>
+        <td>
+          <button
+            onClick={[Function]}
+            style={
+              Object {
+                "borderWidth": "0px",
+              }
+            }
+          >
+            Add
+          </button>
+        </td>
+        <td>
+          <button
+            onClick={[Function]}
+            style={
+              Object {
+                "borderWidth": "0px",
+              }
+            }
+          >
+            Remove
+          </button>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Employee4
+        </td>
+        <td>
+          1000
+        </td>
+        <td>
+          <input
+            className="form-control"
+            id="id4"
+            onChange={[Function]}
+            type="text"
+            value={0}
+          />
+        </td>
+        <td>
+          <button
+            onClick={[Function]}
+            style={
+              Object {
+                "borderWidth": "0px",
+              }
+            }
+          >
+            Add
+          </button>
+        </td>
+        <td>
+          <button
+            onClick={[Function]}
+            style={
+              Object {
+                "borderWidth": "0px",
+              }
+            }
+          >
+            Remove
+          </button>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Employee5
+        </td>
+        <td>
+          1000
+        </td>
+        <td>
+          <input
+            className="form-control"
+            id="id5"
+            onChange={[Function]}
+            type="text"
+            value={0}
+          />
+        </td>
+        <td>
+          <button
+            onClick={[Function]}
+            style={
+              Object {
+                "borderWidth": "0px",
+              }
+            }
+          >
+            Add
+          </button>
+        </td>
+        <td>
+          <button
+            onClick={[Function]}
+            style={
+              Object {
+                "borderWidth": "0px",
+              }
+            }
+          >
+            Remove
+          </button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
