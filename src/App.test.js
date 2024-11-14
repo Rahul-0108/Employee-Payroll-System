@@ -4,7 +4,7 @@ import { render, screen } from "@testing-library/react";
 import renderer from "react-test-renderer";
 import App from "./App";
 
-describe("App.tsx Test", () => {
+describe("App.tsx Test", () => { // groups tests
   test("renders EmployeeUI Component", () => {
     jest.mock("./EmployeeUI", () => () => "EmployeeUI");
     const component = renderer.create(<App />);
