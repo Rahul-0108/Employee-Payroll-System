@@ -8,7 +8,7 @@ import App from "./App";
 /*
   const { container } = render(<ListTransfer allItems={allItems} />);
   expect(container).toMatchSnapshot();
-
+https://github.com/Rahul-0108/Machine-coding/blob/main/tests/ListTransfer.test.js
   */
  
 describe("App.tsx Test", () => { // groups tests
