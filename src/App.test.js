@@ -3,7 +3,14 @@
 import { render, screen } from "@testing-library/react";
 import renderer from "react-test-renderer";
 import App from "./App";
+// DDO NOT USE renderer.create
+// USE 
+/*
+  const { container } = render(<ListTransfer allItems={allItems} />);
+  expect(container).toMatchSnapshot();
 
+  */
+ 
 describe("App.tsx Test", () => { // groups tests
   test("renders EmployeeUI Component", () => {
     jest.mock("./EmployeeUI", () => () => "EmployeeUI");
